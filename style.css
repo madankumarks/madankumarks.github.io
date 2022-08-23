@@ -1,0 +1,11 @@
+                                              BODY {margin-left:0px;background-color: #818181;font-size: 10pt}
+TD{font-size:9pt; font-family:verdana, helvetica;line-height:12pt;}
+td.rt{text-align:right;}
+td.cn{text-align:center;}
+A  {color: #0F6CEA;TEXT-DECORATION: none;}
+A:hover {TEXT-DECORATION: underline; color: #820082;}
+.wcontent {color: #ffffff;}
+.wbcontent {color: #ffffff;font-size: 0.7em; font-family:verdana, helvetica;font-weight:bold; text-decoration: none;}
+.scontent {color: #000000;font-size: 0.7em; font-family:verdana, helvetica; text-decoration: none;}
+h3{font-size:200%;}
+HR{height:1;padding:0;margin:0;line-height:0;}
